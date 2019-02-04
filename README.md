@@ -1,5 +1,5 @@
 # To-do-list
-Make To do list for Codium
+Make To do list for CODIUM
 ## How to run
 1. open your terminal
 ```
